@@ -1,7 +1,9 @@
 # web_scraping_and_web_automation_project
-Web Scraping and Web Automation Project
+#Web Scraping and Web Automation Project#
 
 **Installation**
+
+![Screen Shot] (https://github.com/RayNieva/web_scraping_and_web_automation_project/blob/master/WebScrapingProjects1.png)
 
 Starting with 32 bit install of Scrapy on Windows 7 64 bit.  All the installation recommendations seem convoluted.
 Some recommend mucking about in the registry to redefine Windows on Windows paths etc...
