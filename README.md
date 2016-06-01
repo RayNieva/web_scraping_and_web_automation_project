@@ -1,7 +1,9 @@
 # web_scraping_and_web_automation_project
 #Web Scraping and Web Automation Project#
 
-**Installation**
+First two intended tools to be utilized are Python's Scrapy and next Ruby's Nokogiri
+
+**Scrapy Installation**
 
 ![Screen Shot] (https://github.com/RayNieva/web_scraping_and_web_automation_project/blob/master/WebScrapingProjects1.png)
 
