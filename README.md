@@ -1,6 +1,6 @@
 # web_scraping_and_web_automation_project
 Web Scraping and Web Automation Project
-** Installation
+** Installation **
 Starting with 32 bit install of Scrapy on Windows 7 64 bit.  All the installation recommendations seem convoluted.
 Some recommend mucking about in the registry to redefine Windows on Windows paths etc...
 All require installing each component piece (lxml, twisted, Openssl, zope etc...) separately from various distribution sources. This is unlike the more modern pip install methodology used in Linux distributions.
