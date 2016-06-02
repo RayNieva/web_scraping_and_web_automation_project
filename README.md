@@ -18,3 +18,8 @@ Actually you might need to muck in the registry a little. As it turns out as my 
 
 Also system will look for win32api, but can again use pip2.7 install
 ![Screen Shot] (https://github.com/RayNieva/web_scraping_and_web_automation_project/blob/master/WebScrapingProjects2.png)
+
+**Running Scrapy**
+After creating project and running code.
+
+![Screen Shot] (https://github.com/RayNieva/web_scraping_and_web_automation_project/blob/master/ezgif.com-gif-maker(3).gif)
