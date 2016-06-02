@@ -14,5 +14,7 @@ What I found seems to work is using pip2.7.exe after installing the VC++ compile
 
 Actually you might need to muck in the registry a little. As it turns out as my system path variable was very large (could not edit in control panel). I had to use an alternative. Powershell COULD NOT navigate the registry to HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Environment.... So had to directly modify in the registry editor by replacing c:\python34 and below  to c:\python27-32bit.. which still placed it behind the Anaconda install (Python 3.4 64bit version) but it worked.
 
+![Screen Shot] (https://github.com/RayNieva/web_scraping_and_web_automation_project/blob/master/WebScrapingProjects1a.png)
+
 Also system will look for win32api, but can again use pip2.7 install
 ![Screen Shot] (https://github.com/RayNieva/web_scraping_and_web_automation_project/blob/master/WebScrapingProjects2.png)
