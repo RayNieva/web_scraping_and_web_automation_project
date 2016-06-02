@@ -23,3 +23,7 @@ Also system will look for win32api, but can again use pip2.7 install
 After creating project and running code.
 
 ![Screen Shot] (https://github.com/RayNieva/web_scraping_and_web_automation_project/blob/master/ezgif.com-gif-maker(3).gif)
+
+**Will Yield an HTML File**
+
+![Screen Shot] (https://github.com/RayNieva/web_scraping_and_web_automation_project/blob/master/WebScrapingProjects5.png)
