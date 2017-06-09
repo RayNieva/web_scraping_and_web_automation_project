@@ -7,6 +7,8 @@ First two intended tools to be utilized are Python's Scrapy and next Ruby's Noko
 
 ![Screen Shot] (https://github.com/RayNieva/web_scraping_and_web_automation_project/blob/master/WebScrapingProjects1.png)
 
+![test](https://github.com/RayNieva/web_scraping_and_web_automation_project/blob/master/WebScrapingProjects1.png)
+
 Starting with 32 bit install of Scrapy on Windows 7 64 bit.  All the installation recommendations seem convoluted.
 Some recommend mucking about in the registry to redefine Windows on Windows paths etc...
 All require installing each component piece (lxml, twisted, Openssl, zope etc...) separately from various distribution sources. This is unlike the more modern pip install methodology used in Linux distributions.
