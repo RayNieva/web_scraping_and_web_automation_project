@@ -1,5 +1,5 @@
-# web_scraping_and_web_automation_project
-#Web Scraping and Web Automation Project#
+
+###Web Scraping and Web Automation Project
 
 First two intended tools to be utilized are Python's Scrapy and next Ruby's Nokogiri
 
