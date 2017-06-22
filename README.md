@@ -29,3 +29,7 @@ After creating project and running code.
 **Will Yield an HTML File**
 
 ![Screen Shot](https://github.com/RayNieva/web_scraping_and_web_automation_project/blob/master/WebScrapingProjects5.png)
+
+**Update new information!
+- With advent of Windows 10 many of the issues above are resolved as the System Path can be now easily be re-ordered in the system gui tool.(moved up and down).
+
